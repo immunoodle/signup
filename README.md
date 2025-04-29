@@ -8,6 +8,13 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+## Run App Locally
+
+```shell
+source venv/bin/activate
+python main.py
+```
+
 ## gRPC Python Setup
 
 ```shell
