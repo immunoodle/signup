@@ -1,0 +1,5 @@
+nicegui
+grpcio
+grpcio-tools
+bcrypt
+python-dotenv
