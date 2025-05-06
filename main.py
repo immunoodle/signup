@@ -12,6 +12,7 @@ load_dotenv()
 REDIRECT_URL_AFTER_SIGNUP = os.environ["REDIRECT_URL_AFTER_SIGNUP"]
 GRPC_ADDRESS = os.environ["GRPC_ADDRESS"]
 
+
 ############################################################################
 # UTILITY FUNCTIONS
 ############################################################################
@@ -293,4 +294,4 @@ def signup():
             # result = ui.label()
 
 
-ui.run()
+ui.run(uvicorn_logging_level="info")
