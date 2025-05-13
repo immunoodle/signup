@@ -1,4 +1,5 @@
 FROM python:3.11
+LABEL org.opencontainers.image.source=https://github.com/hoenlab/immun-signup
 
 RUN apt update && apt upgrade -y && rm -rf /var/lib/apt/lists/*
 #RUN apk update && apk upgrade
