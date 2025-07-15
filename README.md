@@ -1,4 +1,6 @@
-# IMMUN Signup
+# Immunoodle Signup
+
+Local development is as below. This application is meant to be run in a container as part of the Immunoodle application stack.
 
 ## Setup Environment
 
