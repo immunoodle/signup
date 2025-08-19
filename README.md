@@ -1,6 +1,6 @@
 # Immunoodle Signup
 
-Local development is as below. This application is meant to be run in a container as part of the Immunoodle application stack.
+Local development is as below if you need to troubleshoot or upgrade dex.  This application is meant to be run in a container as part of the Immunoodle application stack.
 
 ## Setup Environment
 
